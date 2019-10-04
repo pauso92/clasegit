@@ -1,0 +1,19 @@
+nav{
+    background-color: #24272a;
+    justify-content: space-between;
+    display: flex;
+    margin: -10px;
+    
+}
+
+ .titel-div {
+     padding-top: 20px;
+     padding-right: 30px;
+}
+
+.titel-div a{
+    text-decoration: none;
+    color: white;
+    padding-right: 30px;
+
+}
