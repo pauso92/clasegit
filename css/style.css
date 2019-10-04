@@ -89,3 +89,15 @@ nav{
     margin: 0 10px;
     background-size: 50px 50px;
 }
+
+.social-link.twitter{
+    background-image: url('../imagenes/icons8-twitter-50.png');
+}
+
+.social-link.facebook{
+    background-image: url('../imagenes/icons8-facebook-f-50.png');
+}
+
+.social-link.instagram{
+    background-image: url('../imagenes/icons8-instagram-50.png');
+}
