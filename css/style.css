@@ -17,3 +17,75 @@ nav{
     padding-right: 30px;
 
 }
+
+.event-list{
+    height: 600px;
+    width: 1200px;
+    object-position: left;
+    padding-top: 20px;
+    padding-left: 80px;
+}
+.event-img{
+    /*margin-top: -9px;
+    margin-left: -53px;*/
+    margin-top: -20px;
+
+}
+.form-buscar input{
+    border-radius: 8px;
+    width: 300px;
+    height: 30px;
+    background-image: url('../imagenes/icons8-google-web-search-24.png');
+    background-repeat: no-repeat;
+    background-position-x: 270px;
+    background-position-y: center;
+}
+
+.event-img-figure{
+    position: absolute;
+    width: 1100px;
+    height: 600px;
+    padding-top: -100px;
+    padding-left: -100px;
+    padding-right: -100px;
+    padding-bottom: -30px;
+}
+
+/*sobre la imagen*/
+
+.event-from-buscar{
+    position: absolute;
+    width: 1100px;
+    height: 400px;
+    padding-top: 200px; 
+    text-align: center;
+    
+}
+
+/*Footer*/
+
+.container p{
+    font-size: 20px;
+
+}
+
+.contact{
+    background-color: #24272a;
+    color: white;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: -10px;
+    margin-left: -10px;
+ }
+
+.social-link{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+    background-size: 50px 50px;
+}
